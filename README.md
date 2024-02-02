@@ -1,5 +1,5 @@
-# Dynamic-vehicle-routing-problem
-## Dynamic-vehicle-routing-problem
+# Dynamic vehicle routing problem
+## Dynamic vehicle routing problem
 ###### This code works on Dynamic vehicle routing problems. 
 ###### Project Purpose: 
 ###### The aim of DVRP is to minimize transportation costs without exceeding the capacity constraint of each vehicle while serving customer demands from a common depot. Meanwhile, new orders arrive at a specific time in the system while the vehicles are executing the delivery of existing orders. 
